@@ -1,0 +1,31 @@
+{
+  "name": "remove.bg",
+  "description": "Remove image background in a single click",
+  "version": "0.1.0",
+  "engines": {
+    "sketch": ">=49.0"
+  },
+  "skpm": {
+    "name": "Remove.bg",
+    "manifest": "src/manifest.json",
+    "main": "remove-bg.sketchplugin",
+    "assets": [
+      "assets/**/*"
+    ],
+    "sketch-assets-file": "sketch-assets/icons.sketch"
+  },
+  "scripts": {
+    "build": "skpm-build",
+    "watch": "skpm-build --watch",
+    "start": "skpm-build --watch --run",
+    "postinstall": "npm run build && skpm-link"
+  },
+  "devDependencies": {
+    "@skpm/builder": "^0.6.0"
+  },
+  "author": "Mathieu Dutour <mathieu@dutour.me>",
+  "repository" : {
+    "type": "git",
+    "url": "git+https://github.com/mathieudutour/sketch-remove-bg.git"
+  }
+}

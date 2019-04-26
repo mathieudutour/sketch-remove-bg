@@ -1,0 +1,25 @@
+{
+  "compatibleVersion": 3,
+  "bundleVersion": 1,
+  "icon": "icon.png",
+  "commands": [
+    {
+      "name": "Remove background",
+      "identifier": "remove.bg.remove-bg",
+      "script": "./remove-bg.js"
+    },
+    {
+      "name": "Set Remove.bg API key",
+      "identifier": "remove.bg.api-key",
+      "script": "./set-api-key.js"
+    }
+  ],
+  "menu": {
+    "title": "Remove.bg",
+    "items": [
+      "remove.bg.remove-bg",
+      "-",
+      "remove.bg.api-key"
+    ]
+  }
+}
