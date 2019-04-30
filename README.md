@@ -2,7 +2,7 @@
 
 _Remove image background in a single click_
 
-![Screen cast of the remove.bg sketch plugin](https://user-images.githubusercontent.com/3254314/56832001-a78cf180-6838-11e9-954c-5c23e65f5285.gif)
+![Screen cast of the remove.bg sketch plugin](https://user-images.githubusercontent.com/3254314/56963736-a7863d80-6b27-11e9-9788-7c8257eb90e5.gif)
 
 ## Installation
 
