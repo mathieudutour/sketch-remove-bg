@@ -4,9 +4,6 @@ _Remove image background in a single click_
 
 ![Screen cast of the remove.bg sketch plugin](https://user-images.githubusercontent.com/3254314/56963736-a7863d80-6b27-11e9-9788-7c8257eb90e5.gif)
 
-[![Product Hunt](https://user-images.githubusercontent.com/3254314/57018038-b9331800-6bef-11e9-9073-5410fa6f02c4.png)](https://www.producthunt.com/posts/remove-bg-for-sketch)
-
-
 ## Installation
 
 - [Download](../../releases/latest/download/remove-bg.sketchplugin.zip) the latest release of the plugin
